@@ -1,0 +1,2 @@
+name,id,url,deeplink,cuisines,average_cost_for_two,price_range,currency,has_online_delivery,has_table_booking,is_delivering_now,rating_text,rating_color,aggregate_rating,rating_votes,address,locality,city,latitude,longitude
+Hauz Khas Social,308322,https://www.zomato.com/HauzKhasSocial?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1,zomato://restaurant/308322,"Continental, American, Asian, North Indian",1600,3,Rs.,Yes,Yes,No,Very Good,5BA829,4.3,7931,"9-A & 12, Hauz Khas Village, New Delhi",Hauz Khas Village,New Delhi,28.5542851,77.1944706
