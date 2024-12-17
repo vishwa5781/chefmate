@@ -69,5 +69,5 @@ RestauEase is an innovative web application that helps users discover, explore, 
 [Specify your license]
 
 ## Contact
-email:kaarthikkvishwa04@gmail.com
-phno:6382444861
+Email:kaarthikkvishwa04@gmail.com
+Phno:6382444861
