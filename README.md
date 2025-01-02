@@ -65,9 +65,6 @@ RestauEase is an innovative web application that helps users discover, explore, 
 - Create a feature branch
 - Submit pull requests
 
-## License
-[Specify your license]
-
 ## Contact
 Email:kaarthikkvishwa04@gmail.com
 Phno:6382444861
