@@ -46,7 +46,7 @@ if left_img_base64 and right_img_base64:
 
 
 def get_database_connection():
-    engine = create_engine('mysql+mysqlconnector://admin:Vishwa5781@zomato-db.cvsgq2mouj6j.ap-south-1.rds.amazonaws.com:3306/chefmate')
+    engine = create_engine('yourengine')
     return engine
 
 def fetch_data_from_db():
