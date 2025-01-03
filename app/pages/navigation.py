@@ -10,7 +10,7 @@ def navigation_page():
     query_params = st.query_params
     id = int(query_params.get("id"))
     def get_location():
-        token = "ab3741ef1b7b7d"
+        token = "your_token"
         url = f"https://ipinfo.io/json?token={token}"
         response = requests.get(url)
         data = response.json()
